@@ -1,2 +1,0 @@
-# slackfire
-A Slack clone.
